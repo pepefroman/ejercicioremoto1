@@ -1,1 +1,2 @@
 Contenido inicial fichero.txt
+Contenido del segundo usuario
